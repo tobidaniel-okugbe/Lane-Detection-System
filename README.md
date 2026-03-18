@@ -1,5 +1,4 @@
 TITLE: LANE DETECTION
-Video Demo: <MY YOUTUBE URL HERE>
 Description:
 What This Project Does
 This project is a real-time lane detection system built in Python. It takes a dashcam road video, processes it frame by frame, draws green lines over the lane markings it finds on the road & warns you if the car looks like it's drifting out of its lane
